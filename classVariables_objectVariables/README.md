@@ -13,7 +13,7 @@
 
 - This is available or accessible only on the individual instance `i.e` its owned by each instance/object
 
- ### A walk through the example given `link`
+ ### A walk through the example given [Code](https://github.com/kihuni/Object-Oriented_Programming_python/blob/main/classVariables_objectVariables/class-objects_variable.py)
 
 Before that note that:
     - The variable class belongs to the `Person class`: its a class variable
