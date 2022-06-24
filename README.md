@@ -25,4 +25,10 @@ newPerson = Person('kihuni')
 print(newPerson)
 
 ```
+  In the above example:
+    a class is created using keyword `class` then followed by the name `class Person`
+    Inside class block we define two methods:
+        The 1st method has a property or field of `name`(The name inside the parameter is different from the name(field) inside the block of the `__init__` method)
+        The 2nd method is `callMe` method as show above
+
 - Fields are of two types - they can belong to each instance/object of the class or they can belong to the class itself. They are called instance variables and class variables respectively.
