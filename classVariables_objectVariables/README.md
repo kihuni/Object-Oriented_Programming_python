@@ -21,4 +21,5 @@ Before that note that:
     - The `name` variable belongs to the object: its an object variable
 - In the __init__ method we initialize the `Person` instance with a `name` and inside the method we are incrementing `countPerson` by 1 to keep record of person added
 
-- 
+- In the remove method, we are also decrementing `countPerson` by 1 to keep record of number of person removed
+- We are also implementing condition to keep record on nmber of people left
