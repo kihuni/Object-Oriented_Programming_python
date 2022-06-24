@@ -12,3 +12,13 @@
 # Object Variables
 
 - This is available or accessible only on the individual instance `i.e` its owned by each instance/object
+
+ ### A walk through the example given `link`
+
+Before that note that:
+    - The variable class belongs to the `Person class`: its a class variable
+
+    - The `name` variable belongs to the object: its an object variable
+- In the __init__ method we initialize the `Person` instance with a `name` and inside the method we are incrementing `countPerson` by 1 to keep record of person added
+
+- 
