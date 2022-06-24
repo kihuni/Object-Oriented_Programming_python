@@ -1,4 +1,4 @@
-# The __init__ Method
+# The `__init__` Method
 - __init__ method is usually run a soon as the object class is instantiated
 - Its usually usefull for any initialization
 
