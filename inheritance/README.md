@@ -17,3 +17,7 @@
 
 - The process where a `sub-type(teachers and student)` can be subtituted in any situation where a parent type(`SchoolMember`)is expected is what we call `polymorphism`: object can be treated as an instance of the parent class.
 
+## lets walk through the example given [here](https://github.com/kihuni/Object-Oriented_Programming_python/blob/main/inheritance/Inheritance.py)
+
+- 
+
