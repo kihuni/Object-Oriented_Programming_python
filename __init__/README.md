@@ -1,6 +1,6 @@
 # The `__init__` Method
 - __init__ method is usually run a soon as the object class is instantiated
-- Its usually usefull for any initialization
+- Its usually usefull for any initialization `passing initial values to your object`
 
 ### A walk through of the example given [here](https://github.com/kihuni/Object-Oriented_Programming_python/blob/main/__init__/__init__.py):
 
