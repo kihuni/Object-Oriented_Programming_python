@@ -32,3 +32,6 @@ print(newPerson)
         The 2nd method is `callMe` method as show above
 
 - Fields are of two types - they can belong to each instance/object of the class or they can belong to the class itself. They are called instance variables and class variables respectively.
+=======
+- Fields are of two types - they can belong to each `instance/object` of the `class` or they can belong to the `class` itself. They are called `instance variables` and `class variables` respectively.
+
