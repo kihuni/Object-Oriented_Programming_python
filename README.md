@@ -4,7 +4,7 @@
 - It combines data and functionality and wrap it inside an object
 
 - Classes and object are the main building blocks of the OOP.
-    - A `class` creates a new `type` where `objects` are `instances` of the `class`
+- A `class` creates a new `type` where `objects` are `instances` of the `class`
 - For Example:
     You can have variables of `type Person`(variables that store attributes of `person`)are variable which are `instances` of `Person class`
 
