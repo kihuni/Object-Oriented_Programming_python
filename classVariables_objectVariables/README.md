@@ -16,9 +16,9 @@
  ### A walk through the example given [here](https://github.com/kihuni/Object-Oriented_Programming_python/blob/main/classVariables_objectVariables/class-objects_variable.py)
 
 Before that note that:
-    - The variable class belongs to the `Person class`: its a class variable
+   - The variable class belongs to the `Person class`: its a class variable
 
-    - The `name` variable belongs to the object: its an object variable
+   - The `name` variable belongs to the object: its an object variable
 - In the __init__ method we initialize the `Person` instance with a `name` and inside the method we are incrementing `countPerson` by 1 to keep record of person added
 
 - In the remove method, we are also decrementing `countPerson` by 1 to keep record of number of person removed
