@@ -1,4 +1,5 @@
 # The `__init__` Method
+- __init__ method you can define it as a mechanism that initialises an instance right after its created
 - __init__ method is usually run a soon as the object class is instantiated
 - Its usually usefull for any initialization `passing initial values to your object`
 
