@@ -1,3 +1,5 @@
+![burner](https://github.com/kihuni/Object-Oriented_Programming_python/blob/main/Copy%20of%20Copy%20of%20Copy%20of%20Exec()%20System%20Call%20(2).png)
+
 # Object Oriented Programming
 
 - OOP  is a method of structuring a program by bundling related properties and behaviors into individual objects
