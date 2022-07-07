@@ -1,7 +1,7 @@
 from winreg import ConnectRegistry
 
 
-class Contact():
+class Contact:
     list_contact = []
 
     def __init__(self, name, contact):
